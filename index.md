@@ -13,10 +13,11 @@ I'm a MSc Student in Computer Vision at Mohamed bin Zayed University of Artifici
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2023]** Our paper about Dgitals Twins is Published to IEEE Access.
+- **[Aug. 2021]** Started my masters degree in Computer Vision at MBZUAI. 
+- **[Oct. 2020]** Our paper about  Solar Irradiance Forecating is accepted to MDPI Journal.
+- **[May. 2020]** Graduated from King Saud University (KSU) ranked 1st among students in my major.
+
 
 {% include_relative _includes/publications.md %}
 
