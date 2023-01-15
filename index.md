@@ -14,7 +14,7 @@ I'm a MSc Student in Computer Vision at Mohamed bin Zayed University of Artifici
 ## News
 
 - **[Jan. 2023]** Our paper about Dgitals Twins is Published to IEEE Access.
-- **[Aug. 2021]** Started my masters degree in Computer Vision at MBZUAI. 
+- **[Aug. 2021]** Started my Masters degree in Computer Vision at MBZUAI. 
 - **[Oct. 2020]** Our paper about  Solar Irradiance Forecating is accepted to MDPI Journal.
 - **[May. 2020]** Graduated from King Saud University (KSU) ranked 1st among students in my major.
 
