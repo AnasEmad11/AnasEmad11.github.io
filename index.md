@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a MSc Student in Computer Vision at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE. Awarded with a full scholarship to pursue a bachelor’s degree, I received my bachelor's degree from King Saud University, Saudi Arabia. My research interest lies in Computer Vision, Signal and image processing, and Renewable Energy. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Anomaly Detection, Action recognition.
+- **Machine Learning:** Signal and image processing, Applications in Renewable Energy.
 
 ## News
 
