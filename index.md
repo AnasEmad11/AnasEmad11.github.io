@@ -17,7 +17,7 @@ Awarded with a full scholarship to pursue a bachelor’s degree, I received my b
 
 - **[Jan. 2023]** Our paper on Digital Twins is published to IEEE Access.
 - **[Aug. 2021]** Started my masters degree in computer vision at MBZUAI. 
-- **[Oct. 2020]** Our paper about solar irradiance forecasting is accepted to MDPI journal.
+- **[Oct. 2020]** Our paper on solar irradiance forecasting is accepted to MDPI journal.
 - **[May. 2020]** Graduated from King Saud University (KSU) where I ranked 1st among students in my major.
 
 
