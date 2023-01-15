@@ -21,4 +21,4 @@ I'm a MSc Student in Computer Vision at Mohamed bin Zayed University of Artifici
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
