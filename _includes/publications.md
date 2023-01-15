@@ -13,7 +13,7 @@
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10015739">Digital Twin of Atmospheric Environment: Sensory Data Fusion for High-Resolution PM2.5 Estimation and Action Policies Recommendation</a></div>
-    <div class="author"><strong>Kudaibergen Abutalip*, <strong>Anas Al-lahham*</strong>, Abdulmotaleb El Saddik</div>
+    <div class="author"><strong>Kudaibergen Abutalip*, <strong>Anas Al-lahham*</strong>, Abdulmotaleb El Saddik
     <div class="periodical"><em>IEEE Access journal <strong>(IEEE)</strong>, 2023.</em></div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
