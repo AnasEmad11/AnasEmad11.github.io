@@ -16,7 +16,7 @@
     <div class="author">Kudaibergen Abutalip*, <strong>Anas Al-lahham*</strong>, Abdulmotaleb El Saddik
     <div class="periodical"><em>IEEE Access journal <strong>(IEEE)</strong>, 2023.</em></div>
     <div class="links"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10015739" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    <a href="https://github.com/AnasEmad11/nasa-airathon" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    <a href="https://github.com/drivendataorg/nasa-airathon/tree/main/pm25/3rd%20Place" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
