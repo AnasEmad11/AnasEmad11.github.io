@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a MSc Student in Computer Vision, affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, Abu Dhabi, UAE. I'm currently working on my master’s thesis regarding real-world weakly-supervised video anomaly detection under [Dr. Karthik Nandakumar](https://scholar.google.com/citations?user=2qx0RnEAAAAJ&hl=en){:target="_blank"} and [Dr. Fahd Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en){:target="_blank"}.
+I am a MSc Student Graduate in Computer Vision at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, UAE, affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"}  I'm currently working on my master’s thesis regarding real-world weakly-supervised video anomaly detection under [Dr. Karthik Nandakumar](https://scholar.google.com/citations?user=2qx0RnEAAAAJ&hl=en){:target="_blank"} and [Dr. Fahd Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en){:target="_blank"}.
 
 Awarded with a full scholarship to pursue a bachelor’s degree, I received my bachelor's degree from King Saud University, Saudi Arabia. My research interest lies in Computer Vision, Signal and image processing, and Renewable Energy. 
 
