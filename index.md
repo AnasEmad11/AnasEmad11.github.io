@@ -15,7 +15,7 @@ I received my bachelor's degree in Electrical Engineering from [King Saud Univer
 - **Machine Learning:** Signal and image processing, Applications in Renewable Energy.
 
 ## News
-- **[April. 2023]** Graduated with a Master's degree in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/) {:target="_blank"}.
+- **[April. 2023]** Graduated with a Master's degree in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/).
 - **[Jan. 2023]** Our paper on Digital Twins is published to IEEE Access.
 - **[Aug. 2021]** Started my masters degree in computer vision at MBZUAI. 
 - **[Oct. 2020]** Our paper on solar irradiance forecasting is accepted to MDPI journal.
