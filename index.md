@@ -4,9 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a MSc Student Graduate in Computer Vision at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, UAE, affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"}  I'm currently working on my master’s thesis regarding real-world weakly-supervised video anomaly detection under [Dr. Karthik Nandakumar](https://scholar.google.com/citations?user=2qx0RnEAAAAJ&hl=en){:target="_blank"} and [Dr. Fahd Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en){:target="_blank"}.
+I am a MSc Student Graduate in Computer Vision at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, UAE. 
 
-Awarded with a full scholarship to pursue a bachelor’s degree, I received my bachelor's degree from King Saud University, Saudi Arabia. My research interest lies in Computer Vision, Signal and image processing, and Renewable Energy. 
+Currently, I am affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} under [Dr. Karthik Nandakumar](https://scholar.google.com/citations?user=2qx0RnEAAAAJ&hl=en){:target="_blank"} as a Research Assistant.
+<!-- and [Dr. Fahd Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en){:target="_blank"}. -->
+
+I received my bachelor's degree in Electrical Engineering from [King Saud University(KSU)](https://ksu.edu.sa/en/) {:target="_blank"} in 2020, and my Master’s degree in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/) {:target="_blank"} in 2023. My current research interests lies in Video Anomaly Detection (VAD) with applications in Renewable Energy. 
 
 ## Research Interests
 
@@ -14,7 +17,7 @@ Awarded with a full scholarship to pursue a bachelor’s degree, I received my b
 - **Machine Learning:** Signal and image processing, Applications in Renewable Energy.
 
 ## News
-
+- **[April. 2023]** Graduated with a Master's degree in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/) {:target="_blank"}.
 - **[Jan. 2023]** Our paper on Digital Twins is published to IEEE Access.
 - **[Aug. 2021]** Started my masters degree in computer vision at MBZUAI. 
 - **[Oct. 2020]** Our paper on solar irradiance forecasting is accepted to MDPI journal.
