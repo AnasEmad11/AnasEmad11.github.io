@@ -1,13 +1,18 @@
 <style>
   /* Add CSS rules to make images bigger */
   .col-sm-3 img.teaser {
-    max-width: 300px; /* Adjust the max-width as needed */
+    max-width: 400px; /* Adjust the max-width as needed */
     height: auto; /* Maintain the aspect ratio */
   }
 
   /* Add CSS rules to increase the space between images */
   .col-sm-3.abbr {
     margin-right: 20px; /* Increase the margin between images */
+  }
+
+  /* Add CSS rule to adjust margin for text next to images */
+  .col-sm-9 {
+    margin-left: 30px; /* Adjust the left margin for text next to images */
   }
 </style>
 
