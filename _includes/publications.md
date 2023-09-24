@@ -1,7 +1,7 @@
 <style>
   /* Add CSS rules to make images bigger */
   .col-sm-3 img.teaser {
-    max-width: 500px; /* Adjust the max-width as needed */
+    max-width: 600px; /* Adjust the max-width as needed */
     height: auto; /* Maintain the aspect ratio */
   }
 
