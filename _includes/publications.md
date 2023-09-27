@@ -22,7 +22,7 @@
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<div class="publications" style="width : 800px ; margin-top : 40px">
+<div class="publications" style="width : 900px ; margin-top : 40px">
   <ol class="bibliography">
     <li style="margin-bottom: 125px">
       <div class="pub-row">
