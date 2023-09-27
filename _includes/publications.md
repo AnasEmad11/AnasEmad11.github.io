@@ -3,6 +3,8 @@
   .col-sm-3 img.teaser {
     max-width: 600px; /* Adjust the max-width as needed */
     height: auto; /* Maintain the aspect ratio */
+    margin-left: 50px; /* Increase the left margin of images */
+    margin-right: 50px; /* Increase the right margin of images */
   }
 
   /* Add CSS rules to increase the space between images */
