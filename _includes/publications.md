@@ -9,12 +9,12 @@
 
   /* Add CSS rules to increase the space between images */
   .col-sm-3.abbr {
-    margin-right: 10px; /* Increase the margin between images */
+    margin-right: 5px; /* Increase the margin between images */
   }
 
   /* Add CSS rule to adjust margin for text next to images */
   .col-sm-9 {
-    margin-left: 10px; /* Adjust the left margin for text next to images */
+    margin-left: 5px; /* Adjust the left margin for text next to images */
   }
 </style>
 
@@ -25,7 +25,7 @@
     <li>
       <div class="pub-row">
         <!-- First publication -->
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;width: 280px;">
           <img src="assets/img/block.png" class="teaser img-fluid z-depth-1">
           <abbr class="badge">IEEE</abbr>
         </div>
