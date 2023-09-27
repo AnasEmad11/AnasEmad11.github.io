@@ -1,21 +1,22 @@
 <style>
-  /* Add CSS rules to make images bigger */
-  .col-sm-3 {
-    display: flex; /* Use flexbox to control the layout */
-    flex-direction: column; /* Stack elements vertically */
-    align-items: center; /* Center elements horizontally */
-    text-align: center; /* Center text horizontally */
-  }
+/* Add CSS rules to make images bigger */
+.col-sm-3 {
+  display: flex; /* Use flexbox to control the layout */
+  flex-direction: column; /* Stack elements vertically */
+  align-items: center; /* Center elements horizontally */
+  text-align: center; /* Center text horizontally */
+}
 
-  .col-sm-3 img.teaser {
-    max-width: 600px; /* Adjust the max-width as needed */
-    height: auto; /* Maintain the aspect ratio */
-  }
+.col-sm-3 img.teaser {
+  max-width: 600px; /* Adjust the max-width as needed */
+  height: auto; /* Maintain the aspect ratio */
+}
 
-  /* Add CSS rules to increase the space between images */
-  .col-sm-3.abbr {
-    margin-bottom: 20px; /* Increase the margin between images */
-  }
+/* Add CSS rules to increase the space between images */
+.col-sm-3.abbr {
+  margin-bottom: 20px; /* Increase the margin between images */
+}
+
 </style>
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
