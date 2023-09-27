@@ -27,7 +27,7 @@
     <li style="margin-bottom: 125px">
       <div class="pub-row">
         <!-- First publication -->
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;width: 300px;">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="assets/img/block.png" class="teaser img-fluid z-depth-1" style="width: 400px ;height:auto">
           <abbr class="badge">IEEE</abbr>
         </div>
