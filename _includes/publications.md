@@ -22,13 +22,13 @@
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<div class="publications" style="width : 1500px ; margin-top : 40px">
+<div class="publications" style="width : 1000px ; margin-top : 40px">
   <ol class="bibliography">
-    <li>
+    <li style="margin-bottom: 125px">
       <div class="pub-row">
         <!-- First publication -->
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;width: 300px;">
-          <img src="assets/img/block.png" class="teaser img-fluid z-depth-1">
+          <img src="assets/img/block.png" class="teaser img-fluid z-depth-1" style="width: 400px ;height:auto">
           <abbr class="badge">IEEE</abbr>
         </div>
 
@@ -45,11 +45,10 @@
     </li>
 
     <!-- Second publication -->
-    <li style="
-    margin-top: 10px;">
+    <li style="margin-bottom: 125px">
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-          <img src="assets/img/preview_286855.png" class="teaser img-fluid z-depth-1">
+          <img src="assets/img/preview_286855.png" class="teaser img-fluid z-depth-1" style="width: 400px ;height:auto">
           <abbr class="badge">MDPI</abbr>
         </div>
 
