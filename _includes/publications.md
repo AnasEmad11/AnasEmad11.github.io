@@ -1,3 +1,25 @@
+<style>
+  /* Add CSS rules to make images bigger */
+  .col-sm-3 img.teaser {
+    max-width: 400px; /* Adjust the max-width as needed */
+    height: auto; /* Maintain the aspect ratio */
+    margin-left: 0px; /* Increase the left margin of images */
+    margin-right: 0px; /* Increase the right margin of images */
+  }
+
+  /* Add CSS rules to increase the space between images */
+  .col-sm-3.abbr {
+    margin-right: 5px; /* Increase the margin between images */
+  }
+
+  /* Add CSS rule to adjust margin for text next to images */
+  .col-sm-9 {
+    margin-left: 5px; /* Adjust the left margin for text next to images */
+  }
+</style>
+
+
+
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
