@@ -1,20 +1,20 @@
 <style>
   /* Add CSS rules to make images bigger */
+  .col-sm-3 {
+    display: flex; /* Use flexbox to control the layout */
+    flex-direction: column; /* Stack elements vertically */
+    align-items: center; /* Center elements horizontally */
+    text-align: center; /* Center text horizontally */
+  }
+
   .col-sm-3 img.teaser {
-    max-width: 1000px; /* Adjust the max-width as needed */
+    max-width: 600px; /* Adjust the max-width as needed */
     height: auto; /* Maintain the aspect ratio */
-    margin-left: 10px; /* Increase the left margin of images */
-    margin-right: 10px; /* Increase the right margin of images */
   }
 
   /* Add CSS rules to increase the space between images */
   .col-sm-3.abbr {
-    margin-right: 10px; /* Increase the margin between images */
-  }
-
-  /* Add CSS rule to adjust margin for text next to images */
-  .col-sm-9 {
-    margin-left: 10px; /* Adjust the left margin for text next to images */
+    margin-bottom: 20px; /* Increase the margin between images */
   }
 </style>
 
@@ -25,12 +25,12 @@
     <li>
       <div class="pub-row">
         <!-- First publication -->
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+        <div class="col-sm-3 abbr" style="position: relative;">
           <img src="assets/img/block.png" class="teaser img-fluid z-depth-1">
           <abbr class="badge">IEEE</abbr>
         </div>
 
-        <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+        <div class="col-sm-9" style="position: relative;">
           <div class="title"><a href="https://ieeexplore.ieee.org/document/10015739">Digital Twin of Atmospheric Environment: Sensory Data Fusion for High-Resolution PM2.5 Estimation and Action Policies Recommendation</a></div>
           <div class="author">Kudaibergen Abutalip*, <strong>Anas Al-lahham*</strong>, Abdulmotaleb El Saddik
             <div class="periodical"><em>IEEE Access journal <strong>(IEEE)</strong>, 2023.</em></div>
@@ -45,12 +45,12 @@
     <!-- Second publication -->
     <li>
       <div class="pub-row">
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+        <div class="col-sm-3 abbr" style="position: relative;">
           <img src="assets/img/preview_286855.png" class="teaser img-fluid z-depth-1">
           <abbr class="badge">MDPI</abbr>
         </div>
 
-        <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+        <div class="col-sm-9" style="position: relative;">
           <div class="title"><a href="https://doi.org/10.3390/electronics9101700">Sky Imager-Based Forecast of Solar Irradiance Using Machine Learning</a></div>
           <div class="author"><strong>Anas Al-lahham</strong>, Obaidah Theeb, Khaled Elalem, Tariq Alshawi and Saleh Alshebeili</div>
           <div class="periodical"><em>Electronics open-access journal <strong>(MDPI)</strong>, 2020.</em></div>
