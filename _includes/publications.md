@@ -7,12 +7,12 @@
 
   /* Add CSS rules to increase the space between images */
   .col-sm-3.abbr {
-    margin-right: 20px; /* Increase the margin between images */
+    margin-right: 100px; /* Increase the margin between images */
   }
 
   /* Add CSS rule to adjust margin for text next to images */
   .col-sm-9 {
-    margin-left: 20px; /* Adjust the left margin for text next to images */
+    margin-left: 100px; /* Adjust the left margin for text next to images */
   }
 </style>
 
