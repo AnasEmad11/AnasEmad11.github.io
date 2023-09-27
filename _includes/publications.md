@@ -1,20 +1,20 @@
 <style>
   /* Add CSS rules to make images bigger */
   .col-sm-3 img.teaser {
-    max-width: 600px; /* Adjust the max-width as needed */
+    max-width: 1000px; /* Adjust the max-width as needed */
     height: auto; /* Maintain the aspect ratio */
-    margin-left: 50px; /* Increase the left margin of images */
-    margin-right: 50px; /* Increase the right margin of images */
+    margin-left: 10px; /* Increase the left margin of images */
+    margin-right: 10px; /* Increase the right margin of images */
   }
 
   /* Add CSS rules to increase the space between images */
   .col-sm-3.abbr {
-    margin-right: 100px; /* Increase the margin between images */
+    margin-right: 10px; /* Increase the margin between images */
   }
 
   /* Add CSS rule to adjust margin for text next to images */
   .col-sm-9 {
-    margin-left: 100px; /* Adjust the left margin for text next to images */
+    margin-left: 10px; /* Adjust the left margin for text next to images */
   }
 </style>
 
