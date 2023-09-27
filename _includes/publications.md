@@ -3,8 +3,8 @@
   .col-sm-3 img.teaser {
     max-width: 400px; /* Adjust the max-width as needed */
     height: auto; /* Maintain the aspect ratio */
-    margin-left: 0px; /* Increase the left margin of images */
-    margin-right: 0px; /* Increase the right margin of images */
+    margin-left: 5px; /* Increase the left margin of images */
+    margin-right: 5px; /* Increase the right margin of images */
   }
 
   /* Add CSS rules to increase the space between images */
@@ -22,7 +22,7 @@
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<div class="publications">
+<div class="publications" style="width : 1500px ; margin-top : 40px">
   <ol class="bibliography">
     <li>
       <div class="pub-row">
@@ -45,7 +45,8 @@
     </li>
 
     <!-- Second publication -->
-    <li>
+    <li style="
+    margin-top: 10px;">
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="assets/img/preview_286855.png" class="teaser img-fluid z-depth-1">
