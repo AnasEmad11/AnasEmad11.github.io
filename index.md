@@ -7,7 +7,7 @@ layout: homepage
 I am a MSc Student Graduate in Computer Vision at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, UAE.  Currently, I am affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} under [Dr. Karthik Nandakumar](https://scholar.google.com/citations?user=2qx0RnEAAAAJ&hl=en){:target="_blank"} as a Research Assistant.
 <!-- and [Dr. Fahd Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en){:target="_blank"}. -->
 
-I received my bachelor's degree in Electrical Engineering from [King Saud University(KSU)](https://ksu.edu.sa/en/) in 2020, and my Master’s degree in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/) in 2023. My current research interests lies in Video Anomaly Detection (VAD) with applications in Renewable Energy. 
+I received my bachelor's degree in Electrical Engineering from [King Saud University(KSU)](https://ksu.edu.sa/en/) in 2020, and my Master’s degree in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/) in 2023. My current research interests lie in Video Anomaly Detection (VAD) with applications in Renewable Energy. 
 
 ## Research Interests
 
