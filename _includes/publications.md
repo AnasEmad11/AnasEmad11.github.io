@@ -28,6 +28,26 @@
       <div class="pub-row">
         <!-- First publication -->
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/wacv2024.png" class="teaser img-fluid z-depth-1" style="width: 400px ;height:auto">
+          <abbr class="badge">IEEE</abbr>
+        </div>
+
+        <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="https://arxiv.org/abs/2310.17650">A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection</a></div>
+          <div class="author"><strong>Anas Al-lahham</strong>, Nurbek Tastan, Zaigham Zaheer, Karthik Nandakumar
+            <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.</em></div>
+            <div class="links"><a href="https://arxiv.org/abs/2310.17650" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+              <a href="https://github.com/AnasEmad11/C2FPL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <li style="margin-bottom: 125px">
+      <div class="pub-row">
+        <!-- First publication -->
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="assets/img/block.png" class="teaser img-fluid z-depth-1" style="width: 400px ;height:auto">
           <abbr class="badge">IEEE</abbr>
         </div>
