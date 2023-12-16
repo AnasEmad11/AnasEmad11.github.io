@@ -73,9 +73,11 @@
         </div>
 
         <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://doi.org/10.3390/electronics9101700">Sky Imager-Based Forecast of Solar Irradiance Using Machine Learning</a></div>
+          <div class="title"><a href="https://arxiv.org/pdf/2310.17356.pdf">Sky Imager-Based Forecast of Solar Irradiance Using Machine Learning</a></div>
           <div class="author"><strong>Anas Al-lahham</strong>, Obaidah Theeb, Khaled Elalem, Tariq Alshawi and Saleh Alshebeili</div>
           <div class="periodical"><em>Electronics open-access journal <strong>(MDPI)</strong>, 2020.</em></div>
+            <div class="links"><a href="https://arxiv.org/pdf/2310.17356.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            </div>          
         </div>
       </div>
     </li>
