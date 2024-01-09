@@ -33,10 +33,10 @@
         </div>
 
         <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://arxiv.org/abs/2310.17650">A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection</a></div>
+          <div class="title"><a href="https://openaccess.thecvf.com/content/WACV2024/papers/Al-lahham_A_Coarse-To-Fine_Pseudo-Labeling_C2FPL_Framework_for_Unsupervised_Video_Anomaly_Detection_WACV_2024_paper.pdf">A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection</a></div>
           <div class="author"><strong>Anas Al-lahham</strong>, Nurbek Tastan, Zaigham Zaheer, Karthik Nandakumar
             <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.</em></div>
-            <div class="links"><a href="https://arxiv.org/abs/2310.17650" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            <div class="links"><a href="https://openaccess.thecvf.com/content/WACV2024/papers/Al-lahham_A_Coarse-To-Fine_Pseudo-Labeling_C2FPL_Framework_for_Unsupervised_Video_Anomaly_Detection_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
               <a href="https://github.com/AnasEmad11/C2FPL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
             </div>
           </div>
