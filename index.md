@@ -15,7 +15,7 @@ I received my bachelor's degree in Electrical Engineering from [King Saud Univer
 - **Machine Learning:** Signal and image processing, Applications in Renewable Energy.
 
 ## News
-- **[Feb. 2024]** Our paper titled "Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline" has been accepted for publication.
+- **[Feb. 2024]** Our paper titled "Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline" has been accepted for publication at CVPR 2024.
 - **[Oct. 2023]** "A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection" accepted in [WACV, 2024.](https://arxiv.org/abs/2310.17650){:target="_blank"}
 - **[April. 2023]** Graduated with a Master's degree in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/).
 - **[Jan. 2023]** Our paper on Digital Twins is published to IEEE Access.
