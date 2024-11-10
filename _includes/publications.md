@@ -63,7 +63,7 @@
         <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
           <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf">Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline</a></div>
           <div class="author"><strong>Anas Al-lahham</strong>, Nurbek Tastan, Zaigham Zaheer, Karthik Nandakumar
-            <div class="periodical"><em>IIEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
+            <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
             <div class="links"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
               <a href="https://github.com/AnasEmad11/CLAP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
             </div>
