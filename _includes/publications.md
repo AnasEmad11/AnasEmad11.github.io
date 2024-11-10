@@ -7,6 +7,34 @@
     margin-right: 5px; /* Increase the right margin of images */
   }
 
+  .col-sm-3 img.teaser {
+    max-width: 400px; /* Adjust the max-width as needed */
+    height: auto; /* Maintain the aspect ratio */
+    margin-left: 5px; /* Increase the left margin of images */
+    margin-right: 5px; /* Increase the right margin of images */
+  }
+
+  .col-sm-3 img.teaser {
+    max-width: 400px; /* Adjust the max-width as needed */
+    height: auto; /* Maintain the aspect ratio */
+    margin-left: 5px; /* Increase the left margin of images */
+    margin-right: 5px; /* Increase the right margin of images */
+  }
+
+  .col-sm-3 img.teaser {
+    max-width: 400px; /* Adjust the max-width as needed */
+    height: auto; /* Maintain the aspect ratio */
+    margin-left: 5px; /* Increase the left margin of images */
+    margin-right: 5px; /* Increase the right margin of images */
+  }
+
+  .col-sm-3 img.teaser {
+    max-width: 400px; /* Adjust the max-width as needed */
+    height: auto; /* Maintain the aspect ratio */
+    margin-left: 5px; /* Increase the left margin of images */
+    margin-right: 5px; /* Increase the right margin of images */
+  }
+
   /* Add CSS rules to increase the space between images */
   .col-sm-3.abbr {
     margin-right: 5px; /* Increase the margin between images */
@@ -24,6 +52,26 @@
 
 <div class="publications" style="width : 800px ; margin-top : 40px">
   <ol class="bibliography">
+  <li style="margin-bottom: 125px">
+      <div class="pub-row">
+        <!-- First publication -->
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/cvpr2024.png" class="teaser img-fluid z-depth-1" style="width: 400px ;height:auto">
+          <abbr class="badge">IEEE</abbr>
+        </div>
+
+        <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf">Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline</a></div>
+          <div class="author"><strong>Anas Al-lahham</strong>, Nurbek Tastan, Zaigham Zaheer, Karthik Nandakumar
+            <div class="periodical"><em>IIEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
+            <div class="links"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+              <a href="https://github.com/AnasEmad11/CLAP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+
     <li style="margin-bottom: 125px">
       <div class="pub-row">
         <!-- First publication -->
